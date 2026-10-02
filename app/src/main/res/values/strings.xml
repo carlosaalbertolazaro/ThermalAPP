@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">kt_template</string>
+    <string name="cooler_stock">Disipador de stock</string>
+    <string name="cooler_tower">Disipador de torre (aire)</string>
+    <string name="cooler_aio">Refrigeración líquida AIO 240 mm</string>
+    <string name="paste_generic">Pasta genérica</string>
+    <string name="paste_ptm">Pad de cambio de fase (PTM7950)</string>
+    <string name="paste_liquid_metal">Metal líquido</string>
 </resources>
