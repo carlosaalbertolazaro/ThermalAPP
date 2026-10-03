@@ -1,9 +1,20 @@
 <resources>
     <string name="app_name">kt_template</string>
+
     <string name="cooler_stock">Disipador de stock</string>
     <string name="cooler_tower">Disipador de torre (aire)</string>
     <string name="cooler_aio">Refrigeración líquida AIO 240 mm</string>
     <string name="paste_generic">Pasta genérica</string>
     <string name="paste_ptm">Pad de cambio de fase (PTM7950)</string>
     <string name="paste_liquid_metal">Metal líquido</string>
+
+    <string name="screen_title">Simulador de disipación térmica</string>
+    <string name="temperature_format">%1$.1f °C</string>
+    <string name="tdp_format">Consumo (TDP): %1$.0f W</string>
+    <string name="ambient_format">Temperatura ambiente: %1$.0f °C</string>
+    <string name="overclock_label">Overclock</string>
+    <string name="loss_format">Pérdida de rendimiento: %1$d %%</string>
+    <string name="status_safe">Temperatura segura</string>
+    <string name="status_warning">Temperatura elevada</string>
+    <string name="status_danger">¡Thermal throttling!</string>
 </resources>
