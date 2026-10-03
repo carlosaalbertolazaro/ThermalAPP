@@ -8,6 +8,7 @@
     <string name="paste_ptm">Pad de cambio de fase (PTM7950)</string>
     <string name="paste_liquid_metal">Metal líquido</string>
 
+
     <string name="screen_title">Simulador de disipación térmica</string>
     <string name="temperature_format">%1$.1f °C</string>
     <string name="tdp_format">Consumo (TDP): %1$.0f W</string>
@@ -17,4 +18,7 @@
     <string name="status_safe">Temperatura segura</string>
     <string name="status_warning">Temperatura elevada</string>
     <string name="status_danger">¡Thermal throttling!</string>
+
+    <string name="cooler_label">Disipador</string>
+    <string name="paste_label">Pasta térmica</string>
 </resources>

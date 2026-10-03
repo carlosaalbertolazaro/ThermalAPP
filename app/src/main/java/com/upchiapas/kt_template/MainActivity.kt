@@ -28,6 +28,8 @@ class MainActivity : ComponentActivity() {
                     ThermalScreen(
                         uiState = uiState,
                         onTdpChange = viewModel::onTdpChange,
+                        onCoolerSelected = viewModel::onCoolerSelected,
+                        onPasteSelected = viewModel::onPasteSelected,
                         onAmbientChange = viewModel::onAmbientChange,
                         onOverclockToggle = viewModel::onOverclockToggle,
                         modifier = Modifier.padding(innerPadding)
