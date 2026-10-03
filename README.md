@@ -101,7 +101,7 @@ Las resistencias que usé son valores simulados, en °C/W:
 | Torre de aire | 0.25 | Pad PTM7950 | 0.04 |
 | AIO 240 mm | 0.15 | Metal líquido | 0.01 |
 
-El factor de overclock (1.25), los umbrales (70 y 90), los 2 puntos por grado y el tope de 50 % están declarados como constantes con nombre en un `companion object`. Si el profesor pide cambiar el umbral de peligro a 85, se toca una línea.
+El factor de overclock (1.25), los umbrales (70 y 90), los 2 puntos por grado y el tope de 50 % están declarados como constantes con nombre en un `companion object`.
 
 ## 6. Cómo está armada
 
